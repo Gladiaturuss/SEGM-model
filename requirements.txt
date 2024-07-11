@@ -4,7 +4,7 @@ torchvision
 opencv-python
 pandas
 tqdm
-scikit-learn=
+scikit-learn
 scipy
 matplotlib
 Pillow
